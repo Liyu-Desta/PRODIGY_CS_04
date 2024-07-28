@@ -1,5 +1,4 @@
 
-Sure! Here's a detailed README file for your GitHub repository:
 
 Simple Keylogger in Python
 Project Overview
@@ -84,3 +83,4 @@ Prodigy InfoTech: For the opportunity to work on this project.
 pynput Library: For providing an easy-to-use interface for keyboard and mouse input monitoring.
 Contact
 For any questions or inquiries, please contact me at tiragoliyu@gmail.com.
+Happy Coding!
