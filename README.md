@@ -1,7 +1,9 @@
 Here is where you get started! Let's go!
 
 Simple Keylogger in Python
+
 Project Overview
+
 Welcome to the Simple Keylogger in Python project! This project is part of my internship at Prodigy InfoTech. The goal of this task is to create a basic keylogger that captures and logs keystrokes. This project serves as a learning experience to understand how keyloggers work, their ethical implications, and the importance of cybersecurity.
 
 Features
@@ -16,25 +18,21 @@ Ensure you have Python installed on your machine. You can download Python from h
 Installation
 Clone the repository:
 
-bash
-Copy code
+
 git clone https://github.com/Liyu-Desta/PRODIGY_CS_04.git
 cd PRODIGY_CS_04
 Install the required library:
 
-bash
-Copy code
+
 pip install pynput
 Usage
 Navigate to the project directory:
 
-bash
-Copy code
+
 cd PRODIGY_CS_04
 Run the keylogger script:
 
-bash
-Copy code
+
 python keylogger.py
 Press keys on your keyboard to log them. The keystrokes will be saved to key_log.txt in the same directory.
 
